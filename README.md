@@ -5,4 +5,4 @@ pkg install git
 git clone https://github.com/dikaarsya/chip
 
 cd chip
-php x.php
+php vc.php
